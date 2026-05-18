@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VestCareApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b178d17fbfb9ed62eaf755735f3c9e4da152abb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+333ad6f4030c681ec5ba2d1a20db2f1a8b4aef5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("VestCareApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VestCareApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
