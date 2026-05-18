@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using VestCareAPI.Data;
-
+using VestCareApi.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
